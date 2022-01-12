@@ -1,4 +1,4 @@
-##30-days-code-
+# 30-days-code-
 
 pattern 1
 
